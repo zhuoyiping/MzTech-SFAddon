@@ -1,5 +1,5 @@
 # MzTech Slimefun Addon
-This is an example Repository for a generic Slimefun4 Addon.
+这是一个简单的粘液科技附属
 In the top left is a button "Use this template", click this to create your own Addon for Slimefun4 using this basic template.
 
 ## How to create your own addon.
